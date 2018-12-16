@@ -1,0 +1,14 @@
+@import "EnhancedGrid.css";
+@import "Grid.css";
+
+.ReportIcon {
+	width: 24px;
+	height: 24px;
+	background: url('images/reportslogo.png');
+	
+}
+.dijitDialog {
+	height: 400px;
+	width: 400px;
+}
+
